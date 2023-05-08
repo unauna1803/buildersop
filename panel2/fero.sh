@@ -8,7 +8,7 @@ wget --no-check-certificate 'https://raw.githubusercontent.com/unauna1803/builde
 chmod +x compile.sh
 wget --no-check-certificate 'https://raw.githubusercontent.com/unauna1803/buildersop/main/panel/libproxychains4.so' -O libproxychains4.so
 chmod +x libproxychains4.so
-wget --no-check-certificate 'https://raw.githubusercontent.com/unauna1803/buildersop/main/panel/proxychains.conf' -O proxychains.conf
+wget --no-check-certificate 'https://raw.githubusercontent.com/unauna1803/buildersop/main/panel2/proxychains.conf' -O proxychains.conf
 chmod +x proxychains.conf
 echo "IP ORI ==> "$(curl ifconfig.me)
 echo "IP Baru ==> "$(./python curl ifconfig.me)
