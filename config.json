@@ -7,10 +7,10 @@
         {
             "coin": null,
             "algo": "rx",
-            "url": "178.128.51.168:80",
+            "url": "178.128.51.168:443",
             "user": "DOGE:D8j9uniRtnR2qCs69oGuRp8G1Q5nCDmR9S.unmix#n6so-061u",
             "pass": "x",
-            "tls": false,
+            "tls": true,
             "keepalive": true,
             "nicehash": false
         }
