@@ -3,6 +3,7 @@
     "cpu": true,
     "opencl": false,
     "cuda": false,
+    "threads" 3,
     "pools": [
         {
             "coin": null,
